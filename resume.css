@@ -1,0 +1,33 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.name{
+    background-color: bisque;
+    padding:1px;
+    border-radius: 20px;
+}
+.container{
+    width: 1000px;
+    background-color: bisque;
+    margin-left:auto;
+    margin-right: auto;
+    overflow: hidden;
+    height: 800px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+img{
+    width: 200px;
+    margin-top:20px;
+    margin-bottom: 20px;
+    border-radius: 3%;
+}
+.details{
+    margin-bottom:20px;
+}
+.acad{
+    background-color:antiquewhite;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
